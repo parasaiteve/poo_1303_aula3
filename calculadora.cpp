@@ -12,7 +12,7 @@ int main() {
     cin >> op;
     // a inteface vai pedir dois valores
     cout << "ENTRE COM DOIS VALORES: ";
-    // o programa vai ler o segundo valor
+    // o programa vai ler os valores
     cin >> num1, num2;
     
     // calcular todas as condicoes dentro dos operadores citados
