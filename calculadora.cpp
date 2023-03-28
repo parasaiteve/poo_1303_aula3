@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     // as variaveis
     char op;
-    float num1, num2;
+    float num1 >> num2;
     // a interface vai pedir um operador
     cout << "ENTRE COM UM OPERADOR: +, -, /, *: ";
     // o programa vai ler o operador
