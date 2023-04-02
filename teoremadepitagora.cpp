@@ -16,9 +16,9 @@ int main() {
     cin >> cateto_op;
     
     //a funcao do teorema de pitagoras
-    hipotenusa = sqrt(cateto_adj * cateto_adj + cateto_op * cateto_op); 
+    hipotenusa = sqrt(pow(cateto_adj, 2) + pow(cateto_op, 2); 
     
-    cout << "a hipotebusa eh: " << hipotenusa << endl;
+    cout << "o comprimento da hipotebusa eh: " << hipotenusa << endl;
     
     return 0;
 }
